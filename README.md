@@ -1,1 +1,1 @@
-# Algorithmic-Digital-Marketing
+# GenerativeAI-NotebookSpace
